@@ -308,14 +308,14 @@ Example response from the API reference, abridged — real values depend on the 
   ],
   "agent": [
     {
-      "id": "BONY",
-      "type": "seller",
-      "agent_id": "YB6416",
-      "office_id": "117980",
+      "id": "example",
+      "type": "example",
+      "agent_id": "example",
+      "office_id": "example",
       "agent_name": null,
-      "agent_email": "yan@topnestinc.com",
+      "agent_email": "example",
       "agent_phone": null,
-      "office_name": "Remax Top Nest Real Estate",
+      "office_name": "example",
       "office_phone": null
     }
   ],
@@ -485,7 +485,7 @@ Example response from the API reference, abridged — real values depend on the 
         "name": null,
         "accent_color": null,
         "designations": [],
-        "fulfillment_id": "0"
+        "fulfillment_id": "example"
       },
       "office": {
         "href": null,
