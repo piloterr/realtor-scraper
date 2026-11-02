@@ -69,7 +69,7 @@ response = requests.get(
     params={
         "query": "https://www.realtor.com/realestateandhomes-detail/1492-E-57th-St_Brooklyn_NY_11234_M46117-61190",
     },
-    timeout=60,
+    timeout=120,
 )
 response.raise_for_status()
 data = response.json()
@@ -581,7 +581,7 @@ response = requests.get(
     params={
         "query": "https://www.realtor.com/realestateandhomes-search/New-York_NY",
     },
-    timeout=60,
+    timeout=120,
 )
 response.raise_for_status()
 data = response.json()
