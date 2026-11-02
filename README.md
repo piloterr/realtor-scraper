@@ -475,7 +475,7 @@ Example response from the API reference, abridged — real values depend on the 
   "advertisers": [
     {
       "href": null,
-      "name": "Yan Byshevsky",
+      "name": "Alex Martin",
       "team": null,
       "type": "seller",
       "email": "example",
